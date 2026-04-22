@@ -1,2 +1,2 @@
-# lopslog-django
+# Lopslog Django
 Lopslog Logistics Manager
